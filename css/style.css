@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(105, 243, 225);
+    background-color: blue;
+    color: white;
 }
 .container{
     width: 100vw;
